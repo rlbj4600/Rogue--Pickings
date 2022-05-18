@@ -1,0 +1,20 @@
+/*** BASE STLYES***/
+body{
+    font-size: 'Montseratt', sans-serif;
+}
+
+.full-width {
+    width: 1200px;
+    margin: 0 auto;
+    overflow: auto;
+}
+.third-width {
+    width: 400px;
+    float: left;
+}
+
+/** header **/
+header h1{
+    font-family: 'Montserrat', sans-serif;
+    color: green;
+}
